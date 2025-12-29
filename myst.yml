@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0a4eaa4a-945f-4be9-9648-e57d2de2fb1d
+  title: CMU Postdocs and Research Staff
+  description: A repository with relevant information for Postdocs and Research Staff
+  keywords: [postdocs, research-staff, cmu, cmu-postdocs, visa]
+  authors: []
+  github: https://github.com/silil/cmu_postdocs_and_research_staff
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

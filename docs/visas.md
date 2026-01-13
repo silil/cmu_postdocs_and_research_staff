@@ -18,13 +18,29 @@ Visas for Canadians and Mexicans under the USMCA Agreement (last update 2025).
 
 ### Experiences
 
-#### Liliana Millán 
+#### TD $\rightarrow$ TN $\rightarrow$ TD process for dependant of CMU-TN 
 
-Hi, I'm a Senior Project Scientist/Engineer on the Machine Learning Department at the School of Computer Science. 
+**November 2025** 
 
-I'm mexican and haven been working under a TN visa since October 2022. My husband has a TD dependant visa attached to mine, and as almost all the other visas the TD doesn't allow him to work in the US. 
+My husband originally had a TD visa attached to my CMU-TN visa. Eventually, he found a job and got his own TN visa. In october 2025, his employer didn't renew his contract and legally he had **60 calendar days** to either get a new job that could sponsor another TN visa or update his legal status to his original TD visa. 
 
+To udpate your dependant visa to the original TD you **don't need any paperwork from CMU**. You just need to file a File Form I-539 and you can do it online. 
 
+##### Tips 
+
+- You have 60 calendar days to change your status either to a new TN or TD associated with 
+- You'll need your marriage ceritificate (legally translated), the latest I-94 from the CMU-TN holder (myself) and latest I-94 from the person asking for the status change (my husband)
+- You can file for the change of status online on the [USCIS site](https://www.uscis.gov/i539online)
+
+##### Links 
+
+- [USCIS I-539 Form](https://www.uscis.gov/i-539)
+- [Instructions on how to fill the I-530 Form](https://www.uscis.gov/sites/default/files/document/forms/i-539instr.pdf)
+- [File online](https://www.uscis.gov/i539online)
+
+*Anonymous* - **Machine Learning Department**
+
+Who to contact in OIE: [Linda Gentile](https://www.cmu.edu/oie/about/bios/gentile.html)
 
 ## Q&A
 

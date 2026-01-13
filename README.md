@@ -34,7 +34,7 @@ In order to have standarized experiencies on the visa section, try to follow thi
 
 [Time it took]
 
-[Tips (if any)]
+[Tips (if any) and useful links]
 
 [Name (if allowed/wanted)] - [Department]
 [Who to contact in OIE]

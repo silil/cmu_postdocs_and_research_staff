@@ -12,27 +12,48 @@ The content of this site has been made with [Jupyter book](https://jupyterbook.o
 You'll need to have a local copy of this repository to add or modify content. 
 
 1. Update or generate a markdown file
-2. Commit the changes made ONLY on markdown files 
+2. Commit and push the changes made ONLY on markdown files 
 
-⚠️ DO NOT commit anything generated from `jupyter-book`: Anything in the `_build` folder or any of the `html` files generated in that folder. Those files will be managed directly by `jupyter-book` and the `ghp-import` package.
+⚠️ DO NOT commit anything generated from `jupyter-book`: Anything in the `_build` folder or any of the `html` files generated in that folder. Those files will be managed directly by `jupyter-book`.
 
-## How to build it
+Once you have pushed the changes on the `main` branch Jupyter Book will triger the action that will publish the updated site. 
 
-To generate the `html` pages from the markdowns, you'll need to build the `jupyter book`. You can do that with the following commands (at the root of the project):
+### Adding another section 
 
-~~~
-$ jupyter-book clean cookbook/
-$ jupyter-book build cookbook/
-~~~
+If you are adding another section to the site you need to modify the `myst.yml` file on the section `toc` and add the name of the markdown file which **must** be living on the `docs` folder.
 
-⚠️️ Please read the warning messages and try to solve them before publishing the content. Most of the times are missing references to figures/images/sections that affect the flow of the content.
+## Experiencies template 
 
-## How to udpdate the github page
+In order to have standarized experiencies on the visa section, try to follow this suggested template: 
 
-To publish your `html`s to the GitHub Page you'll need to tell GitHub that you have new static content. To do that, you use the `ghp-import` tool that triggers the flow to publish your content on your GitHub site.
+```
+[Title] 
+[When it happened]
 
-~~~
-$ ghp-import -n -p -f cookbook/_build/html
-~~~
+[Details of the event/experience]
 
-Verify that the page has been updated at dssg.github.io/cmu_postdoc_and_research_staff
+[Time it took]
+
+[Tips (if any)]
+
+[Name (if allowed/wanted)] - [Department]
+[Who to contact in OIE]
+```
+
+Here is an example: 
+
+<div style="background-color: #f0f0f0; padding: 10px;">
+<h2>From TD -> TN -> TD again, process for dependant visa</h2>
+
+<h3>November 2025</H3>
+
+My husband originally had a TD visa attached to my CMU-TN visa. Eventually, he found a job and got his own TN visa. In october 2025, his employer didn't renew his contract and legally he had **60 calendar days** to either get a new job that could sponsor another TN visa or update his legal status to his original TD visa. 
+
+To udpate your dependant visa to the original TD you don't need any paperwork from CMU. You just need to file a File Form I-539 and you can do it online. 
+
+...
+
+*Anonymous* - **Machine Learning Department**
+
+Who to contact in OIE: **Linda Gentile**
+</div>

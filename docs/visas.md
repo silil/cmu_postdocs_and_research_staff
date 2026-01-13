@@ -44,5 +44,3 @@ Who to contact in OIE: [Linda Gentile](https://www.cmu.edu/oie/about/bios/gentil
 
 ## Q&A
 
-Some question here? 
-Changes test 

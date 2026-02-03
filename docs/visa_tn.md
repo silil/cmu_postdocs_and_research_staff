@@ -1,14 +1,3 @@
-# Visas 
-
-This space is dedicated to gather the information and experiences from members of our CMU Postdocs and Research Staff community. We have carefully curated the information so that it is easier for you to navigate through the visa process. 
-
-You can find a Q&A and the personal experiences shared on each visa category. 
-
-## HB-1
-
-Something else
-
-> OIE contact specialized on this type of visa: 
 
 ## TN 
 
@@ -42,5 +31,5 @@ To udpate your dependant visa to the original TD you **don't need any paperwork 
 
 Who to contact in OIE: [Linda Gentile](https://www.cmu.edu/oie/about/bios/gentile.html)
 
-## Q&A
+## FAQ
 

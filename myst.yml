@@ -13,9 +13,9 @@ project:
     - title: Welcome
       children: 
         - file: docs/visas.md
-        children:
-          - file: docs/visa_h1b.md
-          - file: docs/visa_tn.md
+          children:
+            - file: docs/visa_h1b.md
+            - file: docs/visa_tn.md
 site:
   template: book-theme
   # options:
